@@ -4,7 +4,7 @@
 - **Title:** MapMarket
 - **Date Launched:** 2024-04-28
 - **Version:** 1.0
-- **Access Online:** [https://mapmarket.onrender.com
+- **Access Online:** https://mapmarket.onrender.com
 
 <br>
 
