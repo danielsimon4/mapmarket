@@ -7,21 +7,24 @@ MapMarket is a web application designed to support small businesses and individu
 <br>
 
 ## Dynamic Map
+
+<br>
 <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/a7721cdd-a54e-4909-b902-7a6c3e652046" />
 
 <br>
 
 ## Price recommender
+
+<br>
 <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/872b2029-1028-4d0a-812f-148036507e6e" />
 
 <br>
 
 ## Clean interface
 
-<div align="center">
-  <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/48a97ab9-d0f0-42f2-ae69-766f62a652e5" />
-  <br><br>
-  <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/1ec8efe4-359e-4d5f-9cb1-fe59e3665559" />
-  <br><br>
-  <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/e4ab8e6e-6906-4909-bb5d-b97c0505b12e" />
-</div>
+<br>
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/48a97ab9-d0f0-42f2-ae69-766f62a652e5" />
+<br><br>
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/1ec8efe4-359e-4d5f-9cb1-fe59e3665559" />
+<br><br>
+<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/e4ab8e6e-6906-4909-bb5d-b97c0505b12e" />
