@@ -1,5 +1,13 @@
 # MapMarket
 
+- **Author:** Daniel Simon
+- **Title:** MapMarket
+- **Date Launched:** 2024-04-28
+- **Version:** 1.0
+- **Access Online:** [https://mapmarket.onrender.com
+
+<br>
+
 ## Overview
 
 MapMarket is a web application designed to support small businesses and individual sellers by enabling them to publish and sell products efficiently on a dynamic map interface. The platform leverages a machine learning model to provide intelligent pricing recommendations, helping sellers make data-driven decisions.
