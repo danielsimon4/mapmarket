@@ -11,14 +11,14 @@ MapMarket is a web application designed to support small businesses and individu
 <br>
 <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/a7721cdd-a54e-4909-b902-7a6c3e652046" />
 
-<br>
+<br><br>
 
 ## Price recommender
 
 <br>
 <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/872b2029-1028-4d0a-812f-148036507e6e" />
 
-<br>
+<br><br>
 
 ## Clean interface
 
